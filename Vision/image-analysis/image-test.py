@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 from azure.ai.vision.imageanalysis import ImageAnalysisClient
 from azure.ai.vision.imageanalysis.models import VisualFeatures
 from azure.core.credentials import AzureKeyCredential
-
+   
 testurl='https://cdn.britannica.com/68/216668-050-DD3A9D0A/United-States-President-Donald-Trump-2017.jpg'
 testurl='https://149369349.v2.pressablecdn.com/wp-content/uploads/2017/01/interview.jpg'
 #testurl='https://www.becomeopedia.com/wp-content/uploads//What-Is-A-Panel-Interview.jpg'
